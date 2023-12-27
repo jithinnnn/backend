@@ -1,0 +1,54 @@
+{
+  "videos": [
+    {
+      "title": "Royal Enfield Hunter 350 Autumn",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GFSf07Pqe_5BcMzsqP9l290TTIv9KQ1wlw&usqp=CAU",
+      "VideoUrl": "https://www.youtube.com/embed/IT0s&t=259s?autoplay=1",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "sports",
+      "videos": [
+        {
+          "title": "Royal Enfield Hunter 350 Autumn",
+          "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GFSf07Pqe_5BcMzsqP9l290TTIv9KQ1wlw&usqp=CAU",
+          "VideoUrl": "https://www.youtube.com/embed/IT0s&t=259s?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "Royal Enfield Hunter 350 Autumn",
+          "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GFSf07Pqe_5BcMzsqP9l290TTIv9KQ1wlw&usqp=CAU",
+          "VideoUrl": "https://www.youtube.com/embed/IT0s&t=259s?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "Royal Enfield Hunter 350 Autumn",
+          "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GFSf07Pqe_5BcMzsqP9l290TTIv9KQ1wlw&usqp=CAU",
+          "VideoUrl": "https://www.youtube.com/embed/IT0s&t=259s?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "Royal Enfield Hunter 350 Autumn",
+          "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GFSf07Pqe_5BcMzsqP9l290TTIv9KQ1wlw&usqp=CAU",
+          "VideoUrl": "https://www.youtube.com/embed/IT0s&t=259s?autoplay=1",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "adventure",
+      "videos": []
+    }
+  ],
+  "histories": [
+    {
+      "title": "Royal Enfield Hunter 350 Autumn",
+      "time": "28-12-2023 , 12:57 AM",
+      "id": 1
+    }
+  ]
+}
